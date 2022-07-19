@@ -35,7 +35,6 @@ aside,
 details,
 figcaption,
 figure,
-footer,
 header,
 hgroup,
 main,
@@ -424,4 +423,9 @@ table {
 td,
 th {
   padding: 0;
+}
+
+footer {
+  font-size: small;
+  margin-top: 100px;
 }

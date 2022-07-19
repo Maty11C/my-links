@@ -150,6 +150,15 @@
     content: 'Haciendo click acá podés enviarme un mail!';
     white-space: initial; }
 
+/* Whatsapp */
+.button.button-whatsapp {
+  color: #000000;
+  background-color: #25D366 }
+.button.button-whatsapp:hover,
+.button.button-whatsapp:hover:before {
+    content: 'Haciendo click acá podés mandarme un WhatsApp!';
+    white-space: initial; }
+
 /* Ko-Fi */
 .button.button-kofi {
   color: #FFFFFF;
