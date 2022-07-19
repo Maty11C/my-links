@@ -147,7 +147,7 @@
   background-color: #E8F3EC }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
-    content: 'Haciendo click aquí, puedes enviarme un mail, puedo tardar en responder!';
+    content: 'Haciendo click acá podés enviarme un mail!';
     white-space: initial; }
 
 /* Ko-Fi */
